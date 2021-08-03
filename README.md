@@ -8,3 +8,5 @@ Compile: csc.exe /platform:x64 /target:exe /unsafe CallBack.cs
 Insert Mimikatz shellcode with hex editor, copy the content of Mimikatz-64bit.txt where the string "A begins, remember to overwrite.
 
 CallBack.exe is compiled version with embedded Mimikatz.
+
+Video PoC: https://www.youtube.com/watch?v=8ym7ZRzkVK8
